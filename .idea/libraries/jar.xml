@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/mastermind_sourcecode_bytecode.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/mastermind_bytecode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
